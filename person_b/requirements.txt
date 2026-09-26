@@ -1,5 +1,0 @@
-streamlit
-
-# Only needed for the real-blockchain stretch goal (deploy_and_bridge.py):
-# web3
-# py-solc-x
